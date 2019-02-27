@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact name="Server:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Server_jar</output-path>
+    <root id="root">
+      <element id="archive" name="Chat-master.jar">
+        <element id="module-output" name="Chat-master" />
+        <element id="file-copy" path="$USER_HOME$/Documents/sqlite-jdbc-3.7.2.jar" />
+      </element>
+    </root>
+  </artifact>
+</component>
